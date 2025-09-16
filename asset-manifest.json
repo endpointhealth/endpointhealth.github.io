@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.b96594c7.css",
-    "main.js": "/static/js/main.c4f053ae.js",
+    "main.css": "/static/css/main.34e5616f.css",
+    "main.js": "/static/js/main.b3c70f92.js",
     "static/js/453.b12a1191.chunk.js": "/static/js/453.b12a1191.chunk.js",
     "static/media/Doctor_Male_96.png": "/static/media/Doctor_Male_96.5a968098845e6259768f.png",
     "static/media/Doctor_Female_96.png": "/static/media/Doctor_Female_96.819a9534979d81a44c8f.png",
     "static/media/Patient_Male_96.png": "/static/media/Patient_Male_96.ff9828438842e8157824.png",
     "static/media/Patient_Female_96.png": "/static/media/Patient_Female_96.b085fcc7e395fb0daee6.png",
     "index.html": "/index.html",
-    "main.b96594c7.css.map": "/static/css/main.b96594c7.css.map",
-    "main.c4f053ae.js.map": "/static/js/main.c4f053ae.js.map",
+    "main.34e5616f.css.map": "/static/css/main.34e5616f.css.map",
+    "main.b3c70f92.js.map": "/static/js/main.b3c70f92.js.map",
     "453.b12a1191.chunk.js.map": "/static/js/453.b12a1191.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b96594c7.css",
-    "static/js/main.c4f053ae.js"
+    "static/css/main.34e5616f.css",
+    "static/js/main.b3c70f92.js"
   ]
 }
