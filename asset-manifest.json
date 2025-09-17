@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.e40bb142.css",
-    "main.js": "/static/js/main.062959bb.js",
+    "main.js": "/static/js/main.39455a34.js",
     "static/js/453.b12a1191.chunk.js": "/static/js/453.b12a1191.chunk.js",
     "static/media/scanner-female.png": "/static/media/scanner-female.c5302031c191b3ebf559.png",
     "static/media/scanner-male.png": "/static/media/scanner-male.42d9ac91798ee94a0d8d.png",
     "static/media/Doctor_Male_96.png": "/static/media/Doctor_Male_96.5a968098845e6259768f.png",
+    "static/media/Doctor_Female.jpg": "/static/media/Doctor_Female.7e2ec594490c93bf5289.jpg",
     "static/media/Doctor_Female_96.png": "/static/media/Doctor_Female_96.819a9534979d81a44c8f.png",
     "static/media/Patient_Male_96.png": "/static/media/Patient_Male_96.ff9828438842e8157824.png",
     "static/media/Patient_Female_96.png": "/static/media/Patient_Female_96.b085fcc7e395fb0daee6.png",
     "index.html": "/index.html",
     "main.e40bb142.css.map": "/static/css/main.e40bb142.css.map",
-    "main.062959bb.js.map": "/static/js/main.062959bb.js.map",
+    "main.39455a34.js.map": "/static/js/main.39455a34.js.map",
     "453.b12a1191.chunk.js.map": "/static/js/453.b12a1191.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e40bb142.css",
-    "static/js/main.062959bb.js"
+    "static/js/main.39455a34.js"
   ]
 }
